@@ -1,4 +1,4 @@
-NbaRoutes
+	NbaRoutes
 ========
 
 *For this project you're going to need to serve your files through a server. Open up your terminal and (if you have Node/NPM), run 'sudo npm install -g http-server'. Now once you want to check out your code, cd into your folder and run 'http-server'. You should see something like 'Starting up http-server, serving ./ on: http://0.0.0.0:8080'. Now go to 'localhost:8080' and you should see your application.
